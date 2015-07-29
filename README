@@ -1,0 +1,4 @@
+This is generic product scrapper platform from various websites
+
+To make it work, identify the regex pattern to fetch product for a specific website and you are done. In the background, it runs on many threads which are obviously configration while you initialize.
+

@@ -1,0 +1,27 @@
+===DB DETAILS===
+
+-FEEDS
+  id
+  url
+  lastModifiedTime
+  lastCrawledTime
+  format
+  isEnabled
+-NEWS
+  id
+  modifiedTime
+  updatedTime
+  publishTime
+  guidValue
+  title
+  baseUri
+  rating
+  author
+  article
+-CATEGORIES
+  id
+  name
+-EXPERIOS
+  id
+  news_id
+  jsonDoc
